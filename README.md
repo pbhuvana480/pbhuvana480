@@ -46,3 +46,9 @@
 - 🔄 **In Progress:** Strengthening C and Python, improving problem-solving skills, and exploring different areas of IT.
 - 🎯 **Goal:** Build meaningful projects, participate in hackathons, and develop strong technical skills.
 - 🚀 **Long Term:** Become a capable IT professional and specialize in a technology area that genuinely interests me.
+
+## 📬 Connect With Me
+
+- Always open to connecting with fellow learners, developers, and tech enthusiasts.
+- Let’s share ideas, collaborate on interesting projects! 🚀
+- Reach out via [LinkedIn](https://www.linkedin.com/in/bhuvana-p-a2257b434/) or drop me a message at **p.bhuvana480@gmail.com**.
