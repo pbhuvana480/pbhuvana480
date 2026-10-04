@@ -39,6 +39,11 @@
 | **Exploring** | — | AI, IoT | Linux |
 
 ---
+## 📌 Featured Repositories
+
+Explore my repositories as I continue learning, experimenting, and building projects throughout my IT journey.
+
+---
 
 ## 🗺️ Career Roadmap
 
@@ -46,6 +51,21 @@
 - 🔄 **In Progress:** Strengthening C and Python, improving problem-solving skills, and exploring different areas of IT.
 - 🎯 **Goal:** Build meaningful projects, participate in hackathons, and develop strong technical skills.
 - 🚀 **Long Term:** Become a capable IT professional and specialize in a technology area that genuinely interests me.
+
+## 🎓 Education & Learning
+
+🏅 Bachelor of Technology (B.Tech) Candidate — St. Joseph's College of Engineering
+
+🚀 Foundational Track: Currently strengthening my programming fundamentals in C and Python while exploring problem-solving, Artificial Intelligence, IoT, and software development.
+
+---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pbhuvana480&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbhuvana480&layout=compact&theme=tokyonight&hide_border=true)
+
+---
 
 ## 📬 Connect With Me
 
